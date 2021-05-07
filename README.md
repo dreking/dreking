@@ -18,8 +18,14 @@ I am a **computer engineer** and **tech enthusiast** with extensive experience i
 
 # 📢 Reach me
 
-|                                                                                           |                                  Profile                                   |
-| :---------------------------------------------------------------------------------------- | :------------------------------------------------------------------------: |
-| ![alt Telegram](https://github.com/dreking/dreking/blob/main/icons/telegram.png?raw=true) |              [Leandre Nsengumuremyi](https://t.me/leandre_ns)              |
-| ![alt LinkedIn](https://github.com/dreking/dreking/blob/main/icons/linkedin.png?raw=true) | [Leandre Nsengumuremyi](https://www.linkedin.com/in/leandre-nsengumuremyi) |
-| ![alt DEV Community](https://github.com/dreking/dreking/blob/main/icons/dev.png?raw=true) |              [Leandre Nsengumuremyi](https://dev.to/dreking)               |
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/leandre_ns) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandre-nsengumuremyi) [![My Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dreking)
+
+# 🔥 My Stats
+
+[![Leandre's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Leandre&layout=compact&theme=dark)](https://github.com/dreking)
+
+[![Leandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreking&count_private=true&show_icons=true&hide=prs,contribs&theme=dark)](https://github.com/dreking)
+
+[![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=dreking&theme=dark)](https://github.com/dreking)
+
+<!-- ![Views](https://gpvc.arturio.dev/dreking) -->
