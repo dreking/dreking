@@ -28,4 +28,4 @@ I am a **computer engineer** and **tech enthusiast** with extensive experience i
 
 [![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=dreking&theme=dark)](https://github.com/dreking)
 
-<!-- ![Views](https://gpvc.arturio.dev/dreking) -->
+<a href="https://app.daily.dev/dreking"><img src="https://api.daily.dev/devcards/07ec63f763554a3fb4b46bc2bba7a7f0.png?r=oj8" width="200" alt="Leandre's Dev Card"/></a>
