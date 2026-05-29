@@ -1,11 +1,11 @@
-# **<center>Hey. I'm [Leandre Nsengumuremyi](https://dreking/github.com) 👋</center>**
+# **<center>Hey. I'm [Leandre Nsengumuremyi](https://github.com/dreking) 👋</center>**
 
 I am a **computer engineer** and **tech enthusiast** with extensive experience in `backend development`, `cross-platform mobile apps development` and `blockchain development` across various projects.
 
 # ⌚ Currently
 
 -   💻 Working on some private projects but always open for a good project
--   📗 Currently learning [Phoenix Framework](https://phoenixframework.org/) and [Elixir](http://elixir-lang.org/)
+-   📗 Currently learning [Neo4j](https://neo4j.com/)
 
 # 😎 My Stack
 
@@ -19,7 +19,7 @@ I am a **computer engineer** and **tech enthusiast** with extensive experience i
 
 # 📢 Reach me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/leandre_ns) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandre-nsengumuremyi) [![My Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dreking)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandre-nsengumuremyi) [![My Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dreking)
 
 # 🔥 My Stats
 
